@@ -1,0 +1,10 @@
+.selected {
+  background: rgb(231, 46, 46);
+  margin-left: 40px;
+  margin-right: 90%;
+}
+
+li {
+  cursor: pointer;
+  font-size: 20px;
+}
